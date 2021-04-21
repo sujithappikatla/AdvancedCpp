@@ -1,2 +1,2 @@
-language = "bash"
+language = "cpp"
 run = "g++ Exceptions/Exception.cpp && ./a.out"
