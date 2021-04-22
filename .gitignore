@@ -1,4 +1,5 @@
 *.replit
+*.bin
 
 # Prerequisites
 *.d

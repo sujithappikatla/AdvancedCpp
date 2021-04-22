@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ Exceptions/Exception.cpp && ./a.out"
+run = "g++ Files/Files.cpp && ./a.out"
