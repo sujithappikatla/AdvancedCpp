@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ Files/Files.cpp && ./a.out"
+run = "g++ STL/vector.cpp && ./a.out"
