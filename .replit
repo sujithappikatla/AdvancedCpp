@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ STL/map.cpp && ./a.out"
+run = "g++ 'Operator Overloading/assignment.cpp' && ./a.out"
