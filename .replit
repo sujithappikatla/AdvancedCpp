@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Operator Overloading/assignment.cpp' && ./a.out"
+run = "g++ 'Operator Overloading/leftshift.cpp' && ./a.out"
