@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Templates/class_template.cpp' && ./a.out"
+run = "g++ 'Templates/function_template.cpp' && ./a.out"
