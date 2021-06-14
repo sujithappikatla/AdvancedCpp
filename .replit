@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Operator Overloading/Complex_numbers/main.cpp' 'Operator Overloading/Complex_numbers/Complex.cpp' && ./a.out"
+run = "g++ 'Templates/class_template.cpp' && ./a.out"
