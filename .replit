@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Functions to Functions/Functors.cpp' && ./a.out"
+run = "g++ 'Cpp11 New Features/decltype.cpp' && ./a.out"
