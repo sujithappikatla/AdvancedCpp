@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Cpp11 New Features/auto.cpp' && ./a.out"
+run = "g++ 'Cpp11 New Features/range_based_loop.cpp' && ./a.out"
