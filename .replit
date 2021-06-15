@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Templates/function_template.cpp' && ./a.out"
+run = "g++ 'Functions to Functions/Function_pointers.cpp' && ./a.out"
