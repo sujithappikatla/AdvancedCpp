@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Cpp11 New Features/ring_buffer.cpp' && ./a.out"
+run = "g++ 'Cpp11 New Features/lambda.cpp' && ./a.out"
