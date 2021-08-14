@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Cpp11 New Features/lambda.cpp' && ./a.out"
+run = "g++ 'Cpp11 New Features/standard_function_type.cpp' && ./a.out"
