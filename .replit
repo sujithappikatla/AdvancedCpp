@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ 'Cpp11 New Features/standard_function_type.cpp' && ./a.out"
+run = "g++ 'Cpp11 New Features/lvalue_rvalue_references.cpp' && ./a.out"
